@@ -1,0 +1,6 @@
+Changes
+Makefile.PL
+MANIFEST
+PerfectHash.pm
+PerfectHash.xs
+test.pl
